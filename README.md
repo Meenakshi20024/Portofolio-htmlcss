@@ -19,3 +19,24 @@ You can view the live project by opening the `index.html` file in your browser
 (or add your live link here if hosted)
 
 ## 📁 Project Structure
+
+
+
+## 🎯 Purpose
+This project is created to:
+- Practice frontend development skills
+- Build a personal web presence
+- Showcase projects and creativity
+
+## 📌 Future Improvements
+- Add JavaScript for interactivity
+- Improve animations and transitions
+- Add a contact form
+
+## 👩‍💻 Author
+**Meenakshi Dangi**  
+Full Stack Web Developer (Learner)  
+
+---
+
+⭐ If you like this project, feel free to star the repository!
